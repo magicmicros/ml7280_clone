@@ -24,7 +24,7 @@ The board has a main shunt, but does NOT have any phase shunts.
 It does, however have a circuit for BEMF, so sensorless firmware can be made.
 
 
-![Alt text](/images/some track details/semi-transparent rev eng.png?raw=true)
+![Alt text](/images/track_details/semi-transparent_rev_eng.png?raw=true)
 ## How the reverse engineering was done
 I took high-resolution pictures of both sides of the board.
 I then processed these in Photoshop, raising contrast, colorized and made the semi-transparent.
