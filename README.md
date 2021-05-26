@@ -36,7 +36,7 @@ I Googled components along the way and collected datasheets.
 As I moved along, I redraw the whole schematic in EAGLE. I just used basic components and didn't care for a physical match of each, so there is no PCB file for this.
 Almost all of the SMD caps does not have a value. It was simply too much work to unsolder every one of them to measure them. Most of the values are not critical anyway.
 I used the original component numbering, so it was easier to relate the schematic to the actual board.
-It took about 3 full days, but I think I got everything done.
+It took about 3 full days, but I think I got everything done. Phew!
 
 
 ## Simulation
@@ -44,6 +44,15 @@ To verify some parts of the schematic (and out of curiosity) I simulated some pa
 The output stages and the power supply have been simulated so far and worked as it should.
 
 ## The future
-The plan is now to write new firmware for this controller. (I haven't even been running it, as I don't know it's capabilities and documentation is severely lacking.)
+The plan is now to write new firmware for this controller. (I haven't even been running it with whatever firmware is on it, as I don't know it's capabilities and documentation is severely lacking.)
+
+If you are interested and would like to join in on this project, please let me know.
+The repository for the firware is here: https://github.com/magicmicros/ml7280_clone_firmware
+
+
+
+## The distant future
+After playing around with this and making some (hopefully) working firmware, the plan is to make a smaller board using integrated FET drivers (LTC4444, MIC4100, UCC2720X or similar) and Bluetooth communication.
+
 
 Stay tuned!
