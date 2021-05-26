@@ -47,7 +47,7 @@ The output stages and the power supply have been simulated so far and worked as 
 The plan is now to write new firmware for this controller. (I haven't even been running it with whatever firmware is on it, as I don't know it's capabilities and documentation is severely lacking.)
 
 If you are interested and would like to join in on this project, please let me know.
-The repository for the firware is here: https://github.com/magicmicros/ml7280_clone_firmware
+The repository for the firmware is here: https://github.com/magicmicros/ml7280_clone_firmware
 
 
 
